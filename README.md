@@ -1,4 +1,3 @@
-```markdown
 # 🔐 Password Manager
 
 A simple Python-based password manager for storing and managing account credentials locally using JSON file storage.
@@ -26,16 +25,15 @@ A simple Python-based password manager for storing and managing account credenti
 Password-Manager/
 │
 ├── main.py
-├── .gitignore
-└── passwords.json
+└── .gitignore
 
-> `passwords.json` is created automatically when passwords are added and is excluded from GitHub using `.gitignore`.
+The passwords.json file is created automatically when passwords are added and is excluded from GitHub using .gitignore.
 
 ## ▶️ How to Run
 
 1. Clone or download the repository.
 2. Open the project folder in the terminal.
-3. Run the following command:
+3. Run the program using:
 
     python main.py
 
@@ -45,15 +43,15 @@ Password-Manager/
 
 The current master password used for this learning project is:
 
-`1234`
+1234
 
 ## 🔐 Security Note
 
 This project is created for learning and demonstration purposes.
 
-Passwords are stored locally in plain text inside `passwords.json`. Therefore, this project should **not** be used to store real or sensitive passwords.
+Passwords are stored locally in plain text inside passwords.json. Therefore, this project should not be used to store real or sensitive passwords.
 
-The `passwords.json` file is excluded from GitHub using `.gitignore`.
+The passwords.json file is excluded from GitHub using .gitignore.
 
 ## 🎯 Purpose
 
@@ -69,4 +67,4 @@ This project was developed to practice:
 
 ## 👩‍💻 Author
 
-**Palak Dule**
+Palak Dule
