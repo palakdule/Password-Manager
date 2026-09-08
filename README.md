@@ -22,23 +22,17 @@ A simple Python-based password manager for storing and managing account credenti
 
 ## 📂 Project Structure
 
+```text
 Password-Manager/
 │
 ├── main.py
 ├── .gitignore
 └── passwords.json
 
-> `passwords.json` is created automatically when passwords are added.
-
-## ▶️ How to Run
-
-1. Clone or download the repository.
-
-2. Open the project folder in the terminal.
-
-3. Run the following command:
-
-```bash
+▶️ How to Run
+Clone or download the repository.
+Open the project folder in the terminal.
+Run the following command:
 python main.py
 Enter the master password to access the Password Manager.
 🔑 Master Password
@@ -65,6 +59,6 @@ Lists and dictionaries
 Loops and conditional statements
 Exception handling
 Random password generation
-
 👩‍💻 Author
+
 Palak Dule
